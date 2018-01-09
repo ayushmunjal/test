@@ -12,7 +12,7 @@ declare var jQuery;
 })
 export class TooltipComponent implements OnInit {
 
-  disabled=5000;
+  disabled;
 
   constructor() { }
 
@@ -20,15 +20,15 @@ export class TooltipComponent implements OnInit {
   }
 
   onKeyPress(event: KeyboardEvent) {
-    if (event.keyCode==27){
-      this.disabled = 1;
-    console.log(event.keyCode);}
+    // if (event.keyCode==27){
+    //   this.disabled = true;
+    // console.log(event.keyCode);}
     // this.disabled = undefined;
     
   }
 
   enable(){
-    this.disabled=5000;
+    this.disabled=undefined;
   }
 
 }
