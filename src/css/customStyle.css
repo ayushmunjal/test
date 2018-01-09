@@ -29,8 +29,8 @@
   filter: Alpha(Opacity=50); }
 
 .ui-state-default {
-  border: 1px solid #aed0ea;
-  background: #2f495c;
+  border: 1px solid #121c24;
+  background: #273c4b;
   color: #e7ecee; }
   .ui-state-default a {
     color: #e7ecee; }
@@ -90,8 +90,8 @@
   box-shadow: 0px 0px 5px #74b2e2; }
 
 .ui-inputgroup .ui-inputgroup-addon {
-  border-color: #aed0ea;
-  background-color: #d7e8f5;
+  border-color: #121c24;
+  background-color: #233646;
   color: #2779aa; }
   .ui-inputgroup .ui-inputgroup-addon:first-child {
     border-top-left-radius: 6px;
@@ -180,8 +180,8 @@
     color: #0070a3; }
 
 .ui-listbox.ui-state-disabled .ui-chkbox-box:not(.ui-state-active):hover {
-  border-color: #aed0ea;
-  background: #2f495c;
+  border-color: #121c24;
+  background: #273c4b;
   color: #e7ecee; }
 
 .ui-multiselect:not(.ui-state-disabled):hover {
@@ -417,7 +417,7 @@
   border-color: #74b2e2;
   background: #e4f1fb;
   color: #0070a3;
-  border-color: #aed0ea; }
+  border-color: #121c24; }
   .ui-panelmenu .ui-panelmenu-header:not(.ui-state-active):hover a {
     color: #0070a3; }
   .ui-panelmenu .ui-panelmenu-header:not(.ui-state-active):hover a {
