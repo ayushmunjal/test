@@ -1,10 +1,10 @@
-# Xello
+# Tooltip Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+This demo project was developed for **Xello**. 
 
-## Install Packages
+## Install Dependencies
 
-Run `npm install` to install required packages.
+Clone or download the files and Run `npm install` from Node.js command prompt to install the dependencies. With the installation, `node_modules` folder gets created.
 
 ## Copy file
 
@@ -12,4 +12,4 @@ Run `xcopy src\js\tooltip.js node_modules\primeng\components\tooltip` from root 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` from Node.js command prompt. Navigate to `http://localhost:4200/` on your browser.. The app will automatically reload if you change any of the source files.
